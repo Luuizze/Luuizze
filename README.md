@@ -24,5 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luuizze&show_icons=true&locale=en" alt="luuizze" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luuizze&" alt="luuizze" /></p>
-
-<img src="https://github.com/Luuizze/Luuizze/assets/84469900/2fad2414-3eef-40e8-bd2e-501cfcaa2d6a)" align="center">
