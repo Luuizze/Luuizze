@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luuizze&label=Profile%20views&color=0e75b6&style=flat" alt="luuizze" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Automation**
 
 - 📫 How to reach me **luizgui656@gmail.com**
 
